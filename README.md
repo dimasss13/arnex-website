@@ -2,7 +2,7 @@ Arnex Website
 Sitio web corporativo desarrollado para Arnex, una empresa dedicada a procesos industriales y manufactura de arneses.
 
 Sitio en línea
-https://dimasss13.github.io/arnex-website/
+www.arnex.mx
 
 Descripción
 Este proyecto consiste en una landing page empresarial diseñada para presentar información sobre la empresa, sus procesos de trabajo y su identidad corporativa.
